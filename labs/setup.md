@@ -30,3 +30,6 @@ References:
 - [ ] Module 7: CI/CD
 ```
 7. Fetch upstream to get the latest changes from the upstream repository
+''' bash
+git remote add upstream https://github.com/Adeelku/gh-abcs-actions.git
+'''
